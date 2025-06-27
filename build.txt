@@ -1,0 +1,3 @@
+displayName = Immersive Evils
+author = PtCoins
+version = 0.1
